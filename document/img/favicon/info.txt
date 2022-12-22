@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: DrSugiyama-Regular
+font link: https://fonts.google.com/specimen/Dr+Sugiyama
+font author: Sudtipos
+font author site: https://www.sudtipos.com/
+
+
+icon designer: Mathieu Crémazy
+icon designer link: /chapi.treefrog
+        
+{"bg-gradient-0":"#3E6E81","bg-gradient-1":"#4587A1","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
